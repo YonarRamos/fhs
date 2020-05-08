@@ -289,7 +289,7 @@ ul.cd-hero-slider {
 .second-service .icon {
 	background-image: url(../img/second-service-main.png);
 	height: 32px;
-	width: 22px;
+	width: 32px;
 	display: inline-block;
 }
 
@@ -1051,7 +1051,7 @@ html {
 	border-radius: 0 0 0 1rem;
 }
 
-.icon:hover {
+.social-bar .icon:hover {
 	padding-right: 3rem;
 	border-radius: 1rem 0 0 1rem;
 	box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.42);
